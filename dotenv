@@ -1,0 +1,4 @@
+GOOGLE_API_KEY=...      # Google AI Studio, for Gemini models
+GROQ_API_KEY=...        # console.groq.com, for Llama models
+HF_TOKEN=...            # HuggingFace, optional for public models
+USER_AGENT=...          # any string; used by WebBaseLoader
